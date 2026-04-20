@@ -1,9 +1,6 @@
 # Project-Mati-The-list-M3U8-anime
 m3u8 playlist of retro anime and more... La lista M3u8 de anime retro
 
-<p align="center">
-  <img src="https://githubusercontent.com" width="150" />
-</p>
 
 <h1 align="center">🧬 Project-MAGI: Retro Anime Hub</h1>
 
