@@ -29,7 +29,7 @@ m3u8 playlist of retro anime and more... La lista M3u8 de anime retro
 
 ### 📝 SOBRE MÍ / ABOUT ME
 
-**ES:** Hola, soy **UMR**. Me cansé de buscar listas de anime retro y no encontrar nada de calidad. Por eso creé este espacio donde subiré clásicos en **Español Latino** e **Inglés** (Doblajes y Subtítulos).
+**ES:** Hola, soy **UMR**. Me cansé de buscar listas de anime retro y no encontrar nada. Por eso creare ests lista m3u8 donde subiré animes clasicos en **Español Latino** e **Inglés** (Doblajes y Subtítulos).
 
 **EN:** Hi, I'm **UMR**. I got tired of looking for retro anime playlists and finding nothing good. That's why I created this hub where I'll upload classics in **Latin Spanish** and **English** (Dubs and Subs).
 
@@ -56,6 +56,6 @@ m3u8 playlist of retro anime and more... La lista M3u8 de anime retro
 ---
 
 <p align="center">
-  <i>"The fate of destruction is also the joy of rebirth."</i><br>
-  <b>Project-MAGI</b> 2024
+  <i>"Presenvando Algo de oro"</i><br>
+  <b>Project-MAGI</b> 2026
 </p>
