@@ -13,8 +13,7 @@ m3u8 playlist of retro anime and more... La lista M3u8 de anime retro
 </p>
 
 <p align="center">
-  <img src="https://shields.io" />
-  <img src="https://shields.io" />
+  <img src="https://tenor.com/b0AQ2.gif" />
 </p>
 
 ---
