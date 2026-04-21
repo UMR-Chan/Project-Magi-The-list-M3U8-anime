@@ -15,13 +15,6 @@ m3u8 playlist of retro anime and more... La lista M3u8 de anime retro
 
 ---
 
-### ⏳ ESTADO DEL PROYECTO / PROJECT STATUS
-
-> [!CAUTION]
-> **ES:** El proyecto no tan listo todavía. Por favor, ten paciencia mientras proceso y añado todos los enlaces.
-> **EN:** The project is not ready yet. Please be patient while I process and add all the links.
-
----
 
 ### 📝 SOBRE MÍ / ABOUT ME
 
