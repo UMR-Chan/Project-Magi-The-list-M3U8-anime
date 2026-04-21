@@ -2,7 +2,7 @@
 m3u8 playlist of retro anime and more... La lista M3u8 de anime retro
 
 
-<h1 align="center">🧬 Project-MAGI: Retro Anime Hub</h1>
+<h1 align="center"> Project-MAGI: Retro Anime Hub</h1>
 
 <p align="center">
   <b>M3U8 Streaming Project by UMR</b><br>
