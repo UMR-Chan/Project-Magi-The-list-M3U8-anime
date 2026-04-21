@@ -6,7 +6,7 @@ m3u8 playlist of retro anime and more... La lista M3u8 de anime retro
 
 <p align="center">
   <b>M3U8 Streaming Project by UMR</b><br>
-  <i>"Preserving Gold"</i>
+  <i>"M3U8 anime list"</i>
 </p>
 
 <p align="center">
