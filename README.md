@@ -52,6 +52,6 @@ m3u8 playlist of retro anime and more... La lista M3u8 de anime retro
 ---
 
 <p align="center">
-  <i>"Presenvando Algo de oro"</i><br>
+  <i>"Un m3u8 para ver o para dejar en auto reproduccion"</i><br>
   <b>Project-MAGI</b> 2026
 </p>
