@@ -39,7 +39,7 @@ m3u8 playlist of retro anime and more... La lista M3u8 de anime retro
 
 <p align="center">
   ¿Quieres contribuir o sugerir un anime? / Want to contribute or suggest an anime?<br>
-  <b>Discord ID:</b> <code>otrouma</code>
+  <b>Discord ID:</b> <code>domauma</code>
 </p>
 
 ---
